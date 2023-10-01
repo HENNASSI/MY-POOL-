@@ -1,4 +1,4 @@
-# MY-POOL
+# MY-POOL <HENNASSI>
  # Table of Content
 | Projects      | Solutions  |
 | :--------------:| :----------:|
@@ -9,3 +9,4 @@
 | C02 | [65%](./C02) | 
 | C03 |  [75%](./C03) | 
 | C04 |  [70%](./C04)| 
+| C06 |  [100%](./C06)| 
